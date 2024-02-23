@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwat12304&style=flat-square&color=red" alt="shashwat12304" /> </p>
 
-
-<p align="left"> <a href="https://www.linkedin.com/in/shashwat-sharma-708206215/" target="blank"><img src="https://img.shields.io/linkedin/follow/shashwat12304?logo=linkedin&style=for-the-badge" alt="shashwat12304" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/shashwat-sharma-708206215/" target="blank"><img src="https://img.shields.io/linkedin/followers/shashwat12304?style=for-the-badge&logo=linkedin" alt="shashwat12304" /></a></p>
 
 <!--
 **shashwat12304/shashwat12304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
