@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm SHASHWAT SHARMA</h1>
+<h3 align="center">Hey folks! I'm Shashwat, a third year undergrad at Amity University, Noida in the Information Technology department. Currently I'm currently working as AI intern at Juggle.I am currently diving deep into Competitive Programmming and Deep Learning.It's my passion to work on AI projects and gain practical experience in order to expand my knowledge of learning the art of algorithmic excellence and to develop products and services that create a positive impact on the society, simultaneously striding to take tech advancement to the next level.My long-term goal is to leverage my skills and experience to develop products and services that create an impact and make people's lives easier.Thank you for taking the time to read my profile, and I look forward to exploring opportunities to collaborate and drive innovation together. Let's connect and explore how we can collaborate to drive success!</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwat12304&style=flat-square&color=red" alt="shashwat12304" /> </p>
+
+
+<p align="left"> <a href="https://www.linkedin.com/in/shashwat-sharma-708206215/" target="blank"><img src="https://img.shields.io/linkedin/follow/shashwat12304?logo=linkedin&style=for-the-badge" alt="shashwat12304" /></a></p>
 
 <!--
 **shashwat12304/shashwat12304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
