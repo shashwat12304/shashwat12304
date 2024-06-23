@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm SHASHWAT SHARMA</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ Shashwat+ Sharma!;" />
+</h1>
 <h3 align="center">Hey folks! I'm Shashwat, a third year undergrad at Amity University, Noida in the Information Technology department. Currently I'm currently working as AI intern at Juggle.I am currently diving deep into Competitive Programmming and Deep Learning.It's my passion to work on AI projects and gain practical experience in order to expand my knowledge of learning the art of algorithmic excellence and to develop products and services that create a positive impact on the society, simultaneously striding to take tech advancement to the next level.My long-term goal is to leverage my skills and experience to develop products and services that create an impact and make people's lives easier.Thank you for taking the time to read my profile, and I look forward to exploring opportunities to collaborate and drive innovation together. Let's connect and explore how we can collaborate to drive success!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwat12304&style=flat-square&color=red" alt="shashwat12304" /> </p>
