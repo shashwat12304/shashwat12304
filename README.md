@@ -9,6 +9,10 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/shashwat-sharma-708206215/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shashwat12304" /></a></p>
 <div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shashwat12304/shashwat12304/6a48c26294c5616524fcf61a43556d0588ef5ad4/github-contribution-grid-snake.svg"/>
