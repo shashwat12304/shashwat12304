@@ -10,8 +10,13 @@
 <p align="left"> <a href="https://www.linkedin.com/in/shashwat-sharma-708206215/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shashwat12304" /></a></p>
 <h2 align="center">⚒️My Tech Stack⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,mongodb,flask" />
-    <img src="https://skillicons.dev/icons?i=python" /><br>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ai,linux,python,mysql,pytorch,tensorflow,anaconda,langchain,pinecone,chatgpt" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=prompts,bots,kaggle,matplotlib,ollama,pandas,opencv,scipy,seaborn,sklearn,streamlit" />
+  </a>
+</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=postman,bootstrap,html,css,vscode,github,figma,tailwind,git,r,mongodb,flask" />
 </div>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -19,20 +24,3 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shashwat12304/shashwat12304/6a48c26294c5616524fcf61a43556d0588ef5ad4/github-contribution-grid-snake.svg"/>
   <br/><br/><br/>
 </div>
-<!--
-**shashwat12304/shashwat12304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=shashwat12304&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat12304&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
